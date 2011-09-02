@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Cgroups Explorer
+Icon=/usr/share/icons/cgroups-explorer.svg
+Exec=/usr/bin/invoker --single-instance --type=d /usr/bin/cgroups-explorer

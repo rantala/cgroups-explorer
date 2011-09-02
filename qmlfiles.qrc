@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/">
+		<file>qmldir/main.qml</file>
+		<file>qmldir/MainPage.qml</file>
+		<file>qmldir/CgroupLabel.qml</file>
+		<file>qmldir/CgroupPage.qml</file>
+		<file>qmldir/CgroupTaskTab.qml</file>
+		<file>qmldir/CgroupStatisticsTab.qml</file>
+		<file>qmldir/Header.qml</file>
+	</qresource>
+</RCC>
